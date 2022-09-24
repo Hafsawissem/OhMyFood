@@ -13,5 +13,4 @@ Des maquettes ainsi qu'un [cahier des charges](https://s3-eu-west-1.amazonaws.co
 - Le projet à été réalisé en **HTML5/CSS3** ainsi que le framework front end **SASS**
 
 ## Contact
--  Adresse e-mail : lyesharrar@gmail.com
-- [Workplace](https://openclassrooms.workplace.com/profile.php?id=100066988681465)
+-  Adresse e-mail : codeforlife2021@gmail.com
